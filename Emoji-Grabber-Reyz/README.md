@@ -14,7 +14,7 @@ python emojiGrabber.py
 # Finalistaion 
 
 Vous aurez un dossier qui se créera dans votre bureau d'où vous pourrez copier 
-les emotes et les utliser ^^
+les emotes et les utiliser ^^
 
 # Licence
 
